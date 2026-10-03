@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of wiwatsrt/flarum-ext-slug-thai.** Not for installation: use [Packagist](https://packagist.org/packages/wiwatsrt/flarum-ext-slug-thai) or the [upstream repository](https://github.com/wiwatsrt/flarum-ext-slug-thai).
 
-**0** versions archived · Latest: [`v0.1.0-beta.1`](https://github.com/flarchive/wiwatsrt-flarum-ext-slug-thai/tree/archive/v0.1.0-beta.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**1** versions archived · Latest: [`v0.1.0-beta.1`](https://github.com/flarchive/wiwatsrt-flarum-ext-slug-thai/tree/archive/v0.1.0-beta.1) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0-beta.1` | 2016-10-15 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/wiwatsrt-flarum-ext-slug-thai/tree/archive/v0.1.0-beta.1) |
 
 Catalog entry: [packages/wiwatsrt-flarum-ext-slug-thai.json](https://github.com/flarchive/archive-index/blob/main/packages/wiwatsrt-flarum-ext-slug-thai.json)
 
